@@ -20,7 +20,7 @@ int main(int argc, char const *argv[]){
 		}
 
 		if(isPrime)
-			printf("Numero primo:\t %d\n", num);
+			printf("Prime number:\t %d\n", num);
 
 		isPrime = 1;
 		sleep(1/RATE);
